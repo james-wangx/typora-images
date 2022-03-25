@@ -1,1 +1,1 @@
-This is where Typora's pictures are kept.
+This is where typora's pictures are kept.
